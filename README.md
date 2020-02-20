@@ -1,2 +1,2 @@
-# Clock
-A beautiful clock with amazing colours
+# A Easy Algorithim For Collision Detection
+It's easy to use check it out

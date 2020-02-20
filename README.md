@@ -1,2 +1,2 @@
-# A Easy Algorithim For Collision Detection
-It's easy to use check it out
+# A Wonderful Clock with Mind Blowing Colours
+Coded with JavaScript
